@@ -1,0 +1,45 @@
+# Eclipse
+.settings/
+bin/
+tmp/
+.classpath
+.metadata
+.project
+*.tmp
+*.bak
+*.swp
+local.properties
+
+# Intellij
+.idea/
+out/
+*.iml
+*.ipr
+
+# vi
+*.swp
+*~
+
+# Visual Studio Code
+effective-pom.xml
+
+# Maven
+target/
+
+# Java
+*.class
+*.ear
+*.jar
+*.war
+
+# Spring
+.factorypath
+.springbeans
+
+# Archives
+*.gz
+*.tar
+*.zip
+
+# Logs
+*.log
